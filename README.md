@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub page! My name is Manuel Espinoza, and I'm an early career professional full-stack web developer. I've completed a certificate from the LEARN Academy web development bootcamp, and have just finished up an internship with the wonderful Planet Argon. They do work with Ruby on Rails and maintain existing codebases of client companies. Currently I'm seeking employment and continuing my development journey by working on more projects and keeping my skills fresh. Stay tuned to see what I'm up to in the future!
 
 <!--
 **manny-espinoza/manny-espinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
